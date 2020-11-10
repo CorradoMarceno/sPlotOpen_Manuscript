@@ -334,7 +334,8 @@
     name: Corrado Marcenò
     orcid: 0000-0003-4361-5200
     email: marcenocorrado@libero.it
-    affiliations: 
+    affiliations:
+      - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
       - University of the Basque Country UPV/EHU, Plant Biology and Ecology, P.O. Box 644, 48080, Bilbao, Spain
   - github: 
     name: Jesper Erenskjold Moeslund
